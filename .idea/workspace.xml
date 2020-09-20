@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7c6bb69-429c-43ef-95ae-0a430e213b05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ciZHMvc1hM8MJFlcm8DH8HWB2W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aaron\PycharmProjects\CPT244_Asn2\venv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CPT244_140659_142413_P01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CPT244_Asn2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/CPT244_140659_142413_P01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CPT244_140659_142413_P01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7c6bb69-429c-43ef-95ae-0a430e213b05" name="Default Changelist" comment="" />
+      <created>1591013286079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591013286079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592138351270">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="223" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1536.824@0.40.1536.824" timestamp="1592138351270" />
+    <state x="491" y="135" key="#main" timestamp="1591713369182">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="491" y="135" key="#main/0.40.1536.824@0.40.1536.824" timestamp="1591713369182" />
+    <state x="172" y="228" key="FileChooserDialogImpl" timestamp="1592138557789">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="172" y="228" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1592138557789" />
+    <state width="1492" height="225" key="GridCell.Tab.0.bottom" timestamp="1592140195871">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1492" height="225" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1592140195871" />
+    <state width="1492" height="225" key="GridCell.Tab.0.center" timestamp="1592140195871">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1492" height="225" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1592140195871" />
+    <state width="1492" height="225" key="GridCell.Tab.0.left" timestamp="1592140195871">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1492" height="225" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1592140195871" />
+    <state width="1492" height="225" key="GridCell.Tab.0.right" timestamp="1592140195871">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1492" height="225" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1592140195871" />
+    <state x="277" y="94" key="SettingsEditor" timestamp="1592140036735">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="277" y="94" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1592140036735" />
+    <state x="93" y="133" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591866792210">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="93" y="133" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.40.1536.824@0.40.1536.824" timestamp="1591866792210" />
+    <state x="731" y="137" key="com.intellij.ide.util.TipDialog" timestamp="1592140264844">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="731" y="137" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1592140264844" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1592016734759">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1592016734759" />
+  </component>
+</project>
